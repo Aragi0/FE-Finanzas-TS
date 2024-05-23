@@ -24,10 +24,12 @@
 .svg-grey{
   fill:#9fabb7
 }
+.svg-red{
+  fill:#ff6b6b
+}
 .svg-green\:hover:hover{
   fill:#60d9b9
 }
-
 .tooltip-content {
   margin-top: .5rem;
   margin-left: -1%;
@@ -35,7 +37,6 @@
   position: absolute;
   z-index: 999;
 }
-
 .tooltip:hover .tooltip-content {
   display: block;
 }

@@ -19,7 +19,7 @@
       </svg>
       <div class="tooltip-content p-bg-gray px-2 py-1 rounded-xl shadow-p-dark text-p-gray text-base font-bold">Inicio</div>
     </RouterLink>
-    <RouterLink to="#" class="tooltip my-auto">
+    <RouterLink to="Test" class="tooltip my-auto">
       <svg
         height="30px"
         viewBox="0 -960 960 960"
